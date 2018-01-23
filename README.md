@@ -7,7 +7,7 @@
 
 搭建教程地址：http://blog.csdn.net/hemin1003/article/details/64439876
 
-本项目是用在学习dubbo过程的中记录，原博主在上面，我是看了这个博主的博文学习的xml配置dubbo、现在在原基础上改为注解，注意dubbo版本是2.4.x，所以注解是老版本的。新版本的后面学到再修改。
+
 
 https://github.com/hemin1003/alibaba-dubbo-study
 
@@ -19,3 +19,6 @@ https://github.com/hemin1003/alibaba-dubbo-study
 [我的博客地址](http://blog.csdn.net/hemin1003)
 
 [个人域名](http://heminit.com)
+
+
+本项目是用在学习dubbo过程的中记录，原博主在上面，我是看了这个博主的博文学习的xml配置dubbo、现在在原基础上改为注解，注意dubbo版本是2.4.x，所以注解是老版本的。新版本的后面学到再修改。
